@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "662588248303",
+    "project_id": "menti-a5f2b",
+    "storage_bucket": "menti-a5f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662588248303:android:cfbfda1264777bea6dcb1a",
+        "android_client_info": {
+          "package_name": "com.lad.menti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662588248303-bho7n68trglam5o901j2hftdv1sbl96h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmptGmLHgRMX48uaL2Zvc8HDXbDIYvjmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662588248303-bho7n68trglam5o901j2hftdv1sbl96h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662588248303-en5cpgjsl07d4ih029gbvk3itbdmcir4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.mentimobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662588248303:android:68561250daef2ee66dcb1a",
+        "android_client_info": {
+          "package_name": "com.mentimobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662588248303-bho7n68trglam5o901j2hftdv1sbl96h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmptGmLHgRMX48uaL2Zvc8HDXbDIYvjmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662588248303-bho7n68trglam5o901j2hftdv1sbl96h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662588248303-en5cpgjsl07d4ih029gbvk3itbdmcir4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.mentimobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
